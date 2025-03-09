@@ -27,5 +27,6 @@ label.pack()
 button = tk.Button(window, text="Сгенерировать овое изображение", command=get_photo)
 button.place(relx=0.5, rely=0.9, anchor="center")
 
+
 get_photo()
 window.mainloop()
