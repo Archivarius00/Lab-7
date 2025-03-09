@@ -2,6 +2,7 @@ import requests
 import json
 
 
+
 city_name = 'Москва'
 key = 'fc0ec10564cb22f674993d3c28aff5c7'
 url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&lang=ru&units=metric&appid={key}"

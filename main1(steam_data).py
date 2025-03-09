@@ -3,6 +3,7 @@
 import requests
 import json
 
+
 arr_interfaces = ["IPlayerService", "ISteamUser", "ISteamUserStats"]
 
 def get_info(steamid):
