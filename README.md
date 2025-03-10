@@ -34,3 +34,4 @@
 **Альтернативное допзадание**
 
 Воспользовавшись API от NASA (https://api.nasa.gov), создать аналогичную программу, выводящую фото дня (https://apod.nasa.gov/apod/astropix.html).
+
